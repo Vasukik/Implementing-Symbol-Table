@@ -1,0 +1,15 @@
+Aim:
+To write a program for implementing Symbol Table using C.
+
+Procedure:
+
+Step1: Start the program for performing insert, display, delete, search and modify option in symbol table
+Step2: Define the structure of the Symbol Table
+Step3: Enter the choice for performing the operations in the symbol Table
+Step4: If the entered choice is 1, search the symbol table for the symbol to be inserted. If the symbol is
+already present, it displays “Duplicate Symbol”. Else, insert the symbol and the corresponding address in
+the symbol table.
+Step5: If the entered choice is 2, the symbols present in the symbol table are displayed.
+Step6: If the entered choice is 3, the symbol to be deleted is searched in the symbol table.
+Step7: If it is not found in the symbol table it displays “Label Not found”. Else, the symbol is deleted.
+Step8: If the entered choice is 5, the symbol to be modified is searched in the symbol table. 
